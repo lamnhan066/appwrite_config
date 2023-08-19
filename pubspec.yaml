@@ -1,5 +1,5 @@
 name: appwrite_config
-description: A new Flutter plugin project.
+description: A flutter plugin for remote configuration in Appwrite.
 version: 0.0.1
 homepage: https://github.com/vnniz/appwrite_config
 

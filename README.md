@@ -1,6 +1,6 @@
 # Appwrite Config
 
-Remote configuration for Appwrite.
+A flutter plugin for remote configuration in Appwrite.
 
 ## Usage
 
